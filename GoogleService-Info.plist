@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>862768936451-bp98rjpev9799pfv1ljaaaheru36dkh5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.862768936451-bp98rjpev9799pfv1ljaaaheru36dkh5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBknDNoAGiB_Jc6VXeGJzJXd01kmLxcPNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>862768936451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ITP342.StudyWithMe</string>
+	<key>PROJECT_ID</key>
+	<string>iosstudywithme</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iosstudywithme.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:862768936451:ios:1ad965a513c3babaec0036</string>
+</dict>
+</plist>
