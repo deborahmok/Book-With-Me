@@ -11,7 +11,7 @@ import FirebaseAuth
 import GoogleSignIn
 import CoreData
 
-let APIKey = "AIzaSyAPVJPSnJqhO7JdgkcrQy_vfpZ-8__8UD0"
+let APIKey = "Password"
 
 class AppDelegate: NSObject, UIApplicationDelegate {
     
